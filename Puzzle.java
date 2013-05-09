@@ -68,6 +68,7 @@ public class Puzzle {
     }};
     
     Puzzle puzz = new Puzzle();
+	 
     
     ArrayList<String> aaronResult = puzz.aaron(test);
     ArrayList<String> nickResult = puzz.nick(aaronResult);
